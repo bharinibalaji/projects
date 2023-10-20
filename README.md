@@ -1,0 +1,2 @@
+# projects Cyclistic-Data gathered from Motivate's International Inc. under the licence agreement: https://www.divvybikes.com/data-licenseagreement
+Cyclistic is a fictional bike-share company with over 5800 bicycles and 600 dock stations. They have two customer segments, Annual members and Casual-riders. Revenue optimization is tied to growing annual membership holders. An analysis has been conducted for the first quarter of 2023 and significant findings and recommendations have been provided. 
